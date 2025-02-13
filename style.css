@@ -1,0 +1,24 @@
+body{
+    background: rgba(0, 0, 0, 1);
+    font-family: 'Courier New', Courier, monospace;}
+
+p{
+    color: rgb(255, 255, 255);}
+
+h1, h2, h3{
+    color: rgb(255, 2, 120);
+    text-transform: uppercase;}
+
+.Welcome{
+    text-align: center;
+    margin-top: 30px;}
+
+.Welcome_image{
+    max-width: 12em;
+    max-height: 12em;
+    border: 3px,solid, rgb(255, 2, 120);
+    border-radius: 100px;}
+
+.Welcome_title{
+    margin-top: 7px;
+    text-transform: uppercase;}
